@@ -3,7 +3,7 @@
 Empowering investors and founders with data-driven insights.
 
 ## Overview
-This project aims to assist Kickstarter founders and investors in making informed decisions using machine learning. By analyzing patterns from past campaigns, we provide predictions on the likelihood of success, minimizing financial risk and uncertainty.
+This project aims to assist Kickstarter founders and investors in making informed decisions using machine learning. Please also check the [presentation](ml-project/project-presentation.pdf) for additional details on the project. By analyzing patterns from past campaigns, we provide predictions on the likelihood of success, minimizing financial risk and uncertainty.
 
 ## Features
 - **Dataset**: Contains 200,000 Kickstarter campaigns (successful, failed, canceled, suspended, and live) from 2009-2018. Extensive preprocessing ensured quality and usability of data.
@@ -61,7 +61,7 @@ This project aims to assist Kickstarter founders and investors in making informe
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/OdessaHH/ml-project.git
    ```
 2. Install required libraries:
    ```bash
